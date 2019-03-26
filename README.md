@@ -6,8 +6,8 @@ Data collected from the accelerometer and gyroscope of the Samsung Galaxy S smar
 
 1. README.md, this file, which provides an overview of the data set and how it was created.
 2. tidy_data.txt, which contains the data set.
-3. CodeBook.md, the code book, which describes the contents of the data set (data, variables and transformations used to generate the data).
-4. run_analysis.R, the R script that was used to create the data set (see the Creating the data set section below)
+3. CodeBook.md, the code book, which describes the contents of the dataset (data, variables and transformations used to generate the data).
+4. run_analysis.R, the R script that was used to create the dataset (see the Creating the data set section below)
 
 
 The R script run_analysis.R is used to create the dataset.
