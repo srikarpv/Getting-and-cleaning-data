@@ -1,5 +1,5 @@
 # Getting-and-cleaning-data
-Data collected from the accelerometer and gyroscope of the Samsung Galaxy S smartphone was retrieved, worked with, and cleaned, to prepare a tidy data that can be used for later analysis.
+Data collected from the accelerometer and gyroscope of the Samsung Galaxy S smartphone was retrieved, worked on, and cleaned, to prepare tidy data that can be analyzed later
 
 
 ## This repository contains the following files:
