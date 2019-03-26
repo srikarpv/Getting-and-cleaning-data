@@ -13,7 +13,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 4. run_analysis.R, the R script that was used to create the dataset (see the Creating the data set section below)
 
 
-*The R script run_analysis.R is used to create the dataset*.
+*The R script run_analysis.R is used to create the dataset*.</br>
 *run_analysis.py does the following* :
 1. Download and unzip source data if it doesn't exist.
 2. Read data.
