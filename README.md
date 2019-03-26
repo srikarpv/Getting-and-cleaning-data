@@ -1,6 +1,9 @@
 # Getting-and-cleaning-data
 Data collected from the accelerometer and gyroscope of the Samsung Galaxy S smartphone was retrieved, worked on, and cleaned, to prepare tidy data that can be analyzed later
 
+## Dataset
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
 
 ## This repository contains the following files:
 
